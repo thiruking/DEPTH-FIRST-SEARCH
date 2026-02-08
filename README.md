@@ -122,6 +122,7 @@ G F <BR>
 
 <hr>
 
+<img width="625" height="365" alt="image" src="https://github.com/user-attachments/assets/2da886ef-a724-4cc7-b6bc-7b88a5ab5d6b" />
 
 <hr>
 <h3>Sample Input</h3>
@@ -137,6 +138,9 @@ G F <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+
+<img width="522" height="218" alt="image" src="https://github.com/user-attachments/assets/50ded95f-af92-45d0-afda-d00c3555505f" />
+
 <hr>
 <h3>Result:</h3>
 <hr>
